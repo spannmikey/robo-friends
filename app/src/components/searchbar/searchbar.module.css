@@ -1,0 +1,14 @@
+.container {
+	/* positioning */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* margin */
+	margin-top: 30px;
+}
+
+.input {
+	border-radius: 0.3em;
+	padding: 0.8rem 2rem;
+    border: none;
+}
